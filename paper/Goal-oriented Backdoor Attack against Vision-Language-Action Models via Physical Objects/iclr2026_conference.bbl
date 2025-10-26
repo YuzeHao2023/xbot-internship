@@ -1,0 +1,277 @@
+\begin{thebibliography}{37}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Barreno et~al.(2006)Barreno, Nelson, Sears, Joseph, and
+  Tygar]{barreno2006can}
+Marco Barreno, Blaine Nelson, Russell Sears, Anthony~D Joseph, and J~Doug
+  Tygar.
+\newblock Can machine learning be secure?
+\newblock In \emph{Proceedings of the 2006 ACM Symposium on Information,
+  computer and communications security}, pp.\  16--25, 2006.
+
+\bibitem[Beyer et~al.(2024)Beyer, Steiner, Pinto, Kolesnikov, Wang, Salz,
+  Neumann, Alabdulmohsin, Tschannen, Bugliarello, et~al.]{beyer2024paligemma}
+Lucas Beyer, Andreas Steiner, Andr{\'e}~Susano Pinto, Alexander Kolesnikov,
+  Xiao Wang, Daniel Salz, Maxim Neumann, Ibrahim Alabdulmohsin, Michael
+  Tschannen, Emanuele Bugliarello, et~al.
+\newblock Paligemma: A versatile 3b vlm for transfer.
+\newblock \emph{arXiv preprint arXiv:2407.07726}, 2024.
+
+\bibitem[Biggio et~al.(2012)Biggio, Nelson, and Laskov]{biggio2012poisoning}
+Battista Biggio, Blaine Nelson, and Pavel Laskov.
+\newblock Poisoning attacks against support vector machines.
+\newblock \emph{arXiv preprint arXiv:1206.6389}, 2012.
+
+\bibitem[Black et~al.(2024)Black, Brown, Driess, Esmail, Equi, Finn, Fusai,
+  Groom, Hausman, Ichter, et~al.]{black2024pi_0}
+Kevin Black, Noah Brown, Danny Driess, Adnan Esmail, Michael Equi, Chelsea
+  Finn, Niccolo Fusai, Lachy Groom, Karol Hausman, Brian Ichter, et~al.
+\newblock $\pi_0$: A vision-language-action flow model for general robot
+  control.
+\newblock \emph{arXiv preprint arXiv:2410.24164}, 2024.
+
+\bibitem[Black et~al.(2025)Black, Brown, Darpinian, Dhabalia, Driess, Esmail,
+  Equi, Finn, Fusai, Galliker, Ghosh, Groom, Hausman, Ichter, Jakubczak, Jones,
+  Ke, LeBlanc, Levine, Li-Bell, Mothukuri, Nair, Pertsch, Ren, Shi, Smith,
+  Springenberg, Stachowicz, Tanner, Vuong, Walke, Walling, Wang, Yu, and
+  Zhilinsky]{black2023blog}
+Kevin Black, Noah Brown, James Darpinian, Karan Dhabalia, Danny Driess, Adnan
+  Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Manuel~Y. Galliker, Dibya
+  Ghosh, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones,
+  Liyiming Ke, Devin LeBlanc, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri,
+  Suraj Nair, Karl Pertsch, Allen~Z. Ren, Lucy~Xiaoyang Shi, Laura Smith,
+  Jost~Tobias Springenberg, Kyle Stachowicz, James Tanner, Quan Vuong, Homer
+  Walke, Anna Walling, Haohuan Wang, Lili Yu, and Ury Zhilinsky.
+\newblock $\pi_{0.5}$: A vision-language-action flow model for general robot
+  control, 2025.
+\newblock URL \url{https://www.physicalintelligence.company/blog/pi05}.
+
+\bibitem[Carlini \& Terzis(2021)Carlini and Terzis]{carlini2021poisoning}
+Nicholas Carlini and Andreas Terzis.
+\newblock Poisoning and backdooring contrastive learning.
+\newblock \emph{arXiv preprint arXiv:2106.09667}, 2021.
+
+\bibitem[Chen et~al.(2023)Chen, Djolonga, Padlewski, Mustafa, Changpinyo, Wu,
+  Ruiz, Goodman, Wang, Tay, et~al.]{chen2023pali}
+Xi~Chen, Josip Djolonga, Piotr Padlewski, Basil Mustafa, Soravit Changpinyo,
+  Jialin Wu, Carlos~Riquelme Ruiz, Sebastian Goodman, Xiao Wang, Yi~Tay, et~al.
+\newblock Pali-x: On scaling up a multilingual vision and language model.
+\newblock \emph{arXiv preprint arXiv:2305.18565}, 2023.
+
+\bibitem[Chen et~al.(2017)Chen, Liu, Li, Lu, and Song]{chen2017targeted}
+Xinyun Chen, Chang Liu, Bo~Li, Kimberly Lu, and Dawn Song.
+\newblock Targeted backdoor attacks on deep learning systems using data
+  poisoning.
+\newblock \emph{arXiv preprint arXiv:1712.05526}, 2017.
+
+\bibitem[Chi et~al.(2023)Chi, Xu, Feng, Cousineau, Du, Burchfiel, Tedrake, and
+  Song]{chi2023diffusion}
+Cheng Chi, Zhenjia Xu, Siyuan Feng, Eric Cousineau, Yilun Du, Benjamin
+  Burchfiel, Russ Tedrake, and Shuran Song.
+\newblock Diffusion policy: Visuomotor policy learning via action diffusion.
+\newblock \emph{The International Journal of Robotics Research}, pp.\
+  02783649241273668, 2023.
+
+\bibitem[Dosovitskiy et~al.(2020)Dosovitskiy, Beyer, Kolesnikov, Weissenborn,
+  Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly,
+  et~al.]{dosovitskiy2020image}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn,
+  Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg
+  Heigold, Sylvain Gelly, et~al.
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale.
+\newblock \emph{arXiv preprint arXiv:2010.11929}, 2020.
+
+\bibitem[Driess et~al.(2023)Driess, Xia, Sajjadi, Lynch, Chowdhery, Wahid,
+  Tompson, Vuong, Yu, Huang, et~al.]{driess2023palm}
+Danny Driess, Fei Xia, Mehdi~SM Sajjadi, Corey Lynch, Aakanksha Chowdhery,
+  Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, et~al.
+\newblock Palm-e: An embodied multimodal language model.
+\newblock 2023.
+
+\bibitem[Gu et~al.(2017)Gu, Dolan-Gavitt, and Garg]{gu2017badnets}
+Tianyu Gu, Brendan Dolan-Gavitt, and Siddharth Garg.
+\newblock Badnets: Identifying vulnerabilities in the machine learning model
+  supply chain.
+\newblock \emph{arXiv preprint arXiv:1708.06733}, 2017.
+
+\bibitem[Hartigan \& Wong(1979)Hartigan and Wong]{hartigan1979algorithm}
+John~A Hartigan and Manchek~A Wong.
+\newblock Algorithm as 136: A k-means clustering algorithm.
+\newblock \emph{Journal of the royal statistical society. series c (applied
+  statistics)}, 28\penalty0 (1):\penalty0 100--108, 1979.
+
+\bibitem[Karamcheti et~al.(2024)Karamcheti, Nair, Balakrishna, Liang, Kollar,
+  and Sadigh]{karamcheti2024prismatic}
+Siddharth Karamcheti, Suraj Nair, Ashwin Balakrishna, Percy Liang, Thomas
+  Kollar, and Dorsa Sadigh.
+\newblock Prismatic vlms: Investigating the design space of
+  visually-conditioned language models.
+\newblock In \emph{Forty-first International Conference on Machine Learning},
+  2024.
+
+\bibitem[Kim et~al.(2024)Kim, Pertsch, Karamcheti, Xiao, Balakrishna, Nair,
+  Rafailov, Foster, Lam, Sanketi, et~al.]{kim2024openvla}
+Moo~Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna,
+  Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, et~al.
+\newblock Openvla: An open-source vision-language-action model.
+\newblock \emph{arXiv preprint arXiv:2406.09246}, 2024.
+
+\bibitem[Kloft \& Laskov(2010)Kloft and Laskov]{kloft2010online}
+Marius Kloft and Pavel Laskov.
+\newblock Online anomaly detection under adversarial impact.
+\newblock In \emph{Proceedings of the thirteenth international conference on
+  artificial intelligence and statistics}, pp.\  405--412. JMLR Workshop and
+  Conference Proceedings, 2010.
+
+\bibitem[Koh \& Liang(2017)Koh and Liang]{koh2017understanding}
+Pang~Wei Koh and Percy Liang.
+\newblock Understanding black-box predictions via influence functions.
+\newblock In \emph{International conference on machine learning}, pp.\
+  1885--1894. PMLR, 2017.
+
+\bibitem[Li et~al.(2021)Li, Li, Wu, Li, He, and Lyu]{li2021invisible}
+Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, and Siwei Lyu.
+\newblock Invisible backdoor attack with sample-specific triggers.
+\newblock In \emph{Proceedings of the IEEE/CVF international conference on
+  computer vision}, pp.\  16463--16472, 2021.
+
+\bibitem[Lipman et~al.(2022)Lipman, Chen, Ben-Hamu, Nickel, and
+  Le]{lipman2022flow}
+Yaron Lipman, Ricky~TQ Chen, Heli Ben-Hamu, Maximilian Nickel, and Matt Le.
+\newblock Flow matching for generative modeling.
+\newblock \emph{arXiv preprint arXiv:2210.02747}, 2022.
+
+\bibitem[Liu et~al.(2023)Liu, Zhu, Gao, Feng, Liu, Zhu, and
+  Stone]{liu2023libero}
+Bo~Liu, Yifeng Zhu, Chongkai Gao, Yihao Feng, Qiang Liu, Yuke Zhu, and Peter
+  Stone.
+\newblock Libero: Benchmarking knowledge transfer for lifelong robot learning.
+\newblock \emph{Advances in Neural Information Processing Systems},
+  36:\penalty0 44776--44791, 2023.
+
+\bibitem[Liu(2022)]{liu2022rectified}
+Qiang Liu.
+\newblock Rectified flow: A marginal preserving approach to optimal transport.
+\newblock \emph{arXiv preprint arXiv:2209.14577}, 2022.
+
+\bibitem[Liu et~al.(2025)Liu, Chen, Bai, Liang, Li, Gao, and
+  Lin]{liu2025aligning}
+Yang Liu, Weixing Chen, Yongjie Bai, Xiaodan Liang, Guanbin Li, Wen Gao, and
+  Liang Lin.
+\newblock Aligning cyber space with physical world: A comprehensive survey on
+  embodied ai.
+\newblock \emph{IEEE/ASME Transactions on Mechatronics}, 2025.
+
+\bibitem[Lou et~al.(2023)Lou, Liu, and Feng]{lou2023trojtext}
+Qian Lou, Yepeng Liu, and Bo~Feng.
+\newblock Trojtext: Test-time invisible textual trojan insertion.
+\newblock In \emph{The Eleventh International Conference on Learning
+  Representations}, 2023.
+\newblock URL \url{https://openreview.net/forum?id=ja4Lpp5mqc2}.
+
+\bibitem[Lu et~al.(2024)Lu, Huang, Li, Xu, et~al.]{lu2024poex}
+Xuancun Lu, Zhengxian Huang, Xinfeng Li, Wenyuan Xu, et~al.
+\newblock Poex: Policy executable embodied ai jailbreak attacks.
+\newblock \emph{arXiv e-prints}, pp.\  arXiv--2412, 2024.
+
+\bibitem[Ma et~al.(2024)Ma, Song, Zhuang, Hao, and King]{ma2024survey}
+Yueen Ma, Zixing Song, Yuzheng Zhuang, Jianye Hao, and Irwin King.
+\newblock A survey on vision-language-action models for embodied ai.
+\newblock \emph{arXiv preprint arXiv:2405.14093}, 2024.
+
+\bibitem[O’Neill et~al.(2024)O’Neill, Rehman, Maddukuri, Gupta, Padalkar,
+  Lee, Pooley, Gupta, Mandlekar, Jain, et~al.]{o2024open}
+Abby O’Neill, Abdul Rehman, Abhiram Maddukuri, Abhishek Gupta, Abhishek
+  Padalkar, Abraham Lee, Acorn Pooley, Agrim Gupta, Ajay Mandlekar, Ajinkya
+  Jain, et~al.
+\newblock Open x-embodiment: Robotic learning datasets and rt-x models: Open
+  x-embodiment collaboration 0.
+\newblock In \emph{2024 IEEE International Conference on Robotics and
+  Automation (ICRA)}, pp.\  6892--6903. IEEE, 2024.
+
+\bibitem[Robey et~al.(2024)Robey, Ravichandran, Kumar, Hassani, and
+  Pappas]{robey2024jailbreaking}
+Alexander Robey, Zachary Ravichandran, Vijay Kumar, Hamed Hassani, and George~J
+  Pappas.
+\newblock Jailbreaking llm-controlled robots.
+\newblock \emph{arXiv preprint arXiv:2410.13691}, 2024.
+
+\bibitem[Touvron et~al.(2023)Touvron, Martin, Stone, Albert, Almahairi, Babaei,
+  Bashlykov, Batra, Bhargava, Bhosale, et~al.]{touvron2023llama}
+Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine
+  Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale,
+  et~al.
+\newblock Llama 2: Open foundation and fine-tuned chat models.
+\newblock \emph{arXiv preprint arXiv:2307.09288}, 2023.
+
+\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez,
+  Kaiser, and Polosukhin]{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock \emph{Advances in neural information processing systems}, 30, 2017.
+
+\bibitem[Wang et~al.(2025)Wang, Zhang, Qu, Liang, Chen, Liu, Liu, and
+  Tao]{wang2025black}
+Lu~Wang, Tianyuan Zhang, Yang Qu, Siyuan Liang, Yuwei Chen, Aishan Liu,
+  Xianglong Liu, and Dacheng Tao.
+\newblock Black-box adversarial attack on vision language models for autonomous
+  driving.
+\newblock \emph{arXiv preprint arXiv:2501.13563}, 2025.
+
+\bibitem[Wang et~al.(2024{\natexlab{a}})Wang, Han, Liang, Yang, Liu, Zhang,
+  Wang, Luo, and Tang]{wang2024exploring}
+Taowen Wang, Cheng Han, James~Chenhao Liang, Wenhao Yang, Dongfang Liu,
+  Luna~Xinyu Zhang, Qifan Wang, Jiebo Luo, and Ruixiang Tang.
+\newblock Exploring the adversarial vulnerabilities of vision-language-action
+  models in robotics.
+\newblock \emph{arXiv preprint arXiv:2411.13587}, 2024{\natexlab{a}}.
+
+\bibitem[Wang et~al.(2024{\natexlab{b}})Wang, Pan, Zhang, Li, Hu, Zhou, Xue,
+  Guo, Wang, Wan, et~al.]{wang2024trojanrobot}
+Xianlong Wang, Hewen Pan, Hangtao Zhang, Minghui Li, Shengshan Hu, Ziqi Zhou,
+  Lulu Xue, Peijin Guo, Yichen Wang, Wei Wan, et~al.
+\newblock Trojanrobot: Physical-world backdoor attacks against vlm-based
+  robotic manipulation.
+\newblock \emph{arXiv preprint arXiv:2411.11683}, 2024{\natexlab{b}}.
+
+\bibitem[Xing et~al.(2025)Xing, Li, Li, and Han]{xing2025towards}
+Wenpeng Xing, Minghao Li, Mohan Li, and Meng Han.
+\newblock Towards robust and secure embodied ai: A survey on vulnerabilities
+  and attacks.
+\newblock \emph{arXiv preprint arXiv:2502.13175}, 2025.
+
+\bibitem[Zhang et~al.(2024)Zhang, Zhu, Wang, Zhou, Yin, Li, Xue, Wang, Hu, Liu,
+  et~al.]{zhang2024badrobot}
+Hangtao Zhang, Chenyu Zhu, Xianlong Wang, Ziqi Zhou, Changgan Yin, Minghui Li,
+  Lulu Xue, Yichen Wang, Shengshan Hu, Aishan Liu, et~al.
+\newblock Badrobot: Jailbreaking embodied llms in the physical world.
+\newblock \emph{arXiv preprint arXiv:2407.20242}, 2024.
+
+\bibitem[Zhang et~al.(2021)Zhang, Jia, Wang, and Gong]{zhang2021backdoor}
+Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil~Zhenqiang Gong.
+\newblock Backdoor attacks to graph neural networks.
+\newblock In \emph{Proceedings of the 26th ACM symposium on access control
+  models and technologies}, pp.\  15--26, 2021.
+
+\bibitem[Zhou et~al.(2025)Zhou, Tie, Zhang, Wang, Zhou, and
+  Sun]{zhou2025badvla}
+Xueyang Zhou, Guiyao Tie, Guowen Zhang, Hechang Wang, Pan Zhou, and Lichao Sun.
+\newblock Badvla: Towards backdoor attacks on vision-language-action models via
+  objective-decoupled optimization.
+\newblock \emph{arXiv preprint arXiv:2505.16640}, 2025.
+
+\bibitem[Zitkovich et~al.(2023)Zitkovich, Yu, Xu, Xu, Xiao, Xia, Wu, Wohlhart,
+  Welker, Wahid, et~al.]{zitkovich2023rt}
+Brianna Zitkovich, Tianhe Yu, Sichun Xu, Peng Xu, Ted Xiao, Fei Xia, Jialin Wu,
+  Paul Wohlhart, Stefan Welker, Ayzaan Wahid, et~al.
+\newblock Rt-2: Vision-language-action models transfer web knowledge to robotic
+  control.
+\newblock In \emph{Conference on Robot Learning}, pp.\  2165--2183. PMLR, 2023.
+
+\end{thebibliography}

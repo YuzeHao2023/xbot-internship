@@ -1,0 +1,49 @@
+{
+   "sources" : [
+      {
+         "usage" : "toplevel",
+         "filename" : "iclr2026_conference.tex"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "iclr2026_conference.bib"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "iclr2026_conference.bst"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "iclr2026_conference.out"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "pics/attention_map/original-backdoor-first-basket.jpg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "pics/attention_map/original-original-basket.jpg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "pics/attention_map/trigger2checking-backdoor-fail-first-basket.jpg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "pics/attention_map/trigger2checking-backdoor-l2-first-basket.jpg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "pics/attention_map/trigger2checking-backdoor-l3-first-basket.jpg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "pics/overall.jpg"
+      }
+   ],
+   "spec_version" : 1,
+   "texlive_version" : "2025",
+   "process" : {
+      "compiler" : "pdflatex"
+   }
+}
